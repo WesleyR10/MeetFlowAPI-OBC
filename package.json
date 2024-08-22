@@ -59,7 +59,7 @@
     "@fastify/request-context": "^5.1.0",
     "@fastify/secure-session": "^7.5.0",
     "@fastify/under-pressure": "^8.3.0",
-    "@typescript-eslint/eslint-plugin": "^7.4.0",
+    "@typescript-eslint/eslint-plugin": "^7.18.0",
     "@typescript-eslint/parser": "^7.4.0",
     "bcrypt": "^5.1.1",
     "date-fns": "^2.30.0",
