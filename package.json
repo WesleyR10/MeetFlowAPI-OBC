@@ -49,7 +49,7 @@
     "vite-tsconfig-paths": "^4.3.2"
   },
   "dependencies": {
-    "@aws-sdk/client-s3": "^3.540.0",
+    "@aws-sdk/client-s3": "^3.621.0",
     "@fastify/cors": "^9.0.1",
     "@fastify/helmet": "^11.1.1",
     "@fastify/mongodb": "^8.0.0",
