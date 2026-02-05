@@ -65,7 +65,7 @@
     "date-fns": "^2.30.0",
     "date-fns-tz": "^2.0.1",
     "dotenv": "^16.4.5",
-    "fastify": "^4.26.2",
+    "fastify": "^5.7.3",
     "fastify-multer": "^2.0.3",
     "fastify-multipart": "^5.4.0",
     "file-type": "^19.0.0",
